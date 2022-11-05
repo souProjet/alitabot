@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "canvas": "^2.10.2",
+    "express": "^4.18.2",
+    "jimp": "^0.16.2",
+    "node-fetch": "^2.6.7",
+    "tools-for-instagram": "^1.8.12"
+  },
+  "name": "alitabot",
+  "version": "1.0.0",
+  "description": "Bot instagram multifonction",
+  "main": "weather.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

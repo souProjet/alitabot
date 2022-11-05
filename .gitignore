@@ -1,0 +1,8 @@
+node_modules
+accounts
+cookies
+db
+output
+template
+.env
+config.json
